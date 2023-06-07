@@ -1,0 +1,22 @@
+*{
+  font-family: 'Roboto', sans-serif;
+}
+
+.politicas{
+  max-width: 700px;
+  padding: 10px;
+  margin: 0 auto;
+}
+
+.voltar{
+  padding: 10px 50px;
+  background: green;
+  color: white;
+  text-decoration: none;
+  margin: 20px;
+  float: right;
+}
+
+.voltar:hover{
+  background: rgb(1, 51, 1);
+}
